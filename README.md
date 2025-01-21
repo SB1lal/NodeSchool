@@ -1,2 +1,2 @@
 # NodeSchool
-This Repository include some of my solutions and some official solutions for Node School Workshops.
+This Repository include my solutions and some official solutions for Node School Workshops.
